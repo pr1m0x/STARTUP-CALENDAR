@@ -1,6 +1,6 @@
 # Startup-Calendar
 
-This project was created in cooperation with the Berlin Startup School [BSS](https://de.berlinstartupschool.com/).
+This project was created in cooperation with the [Berlin Startup Schoo](https://de.berlinstartupschool.com/).
 
 ## What is the Startup-Calendar about?
 
