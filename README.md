@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Startup-Calendar
 
 This project was bootstrapped with build in cooperation with the Berlin Startup School [BSS](https://de.berlinstartupschool.com/).
 
