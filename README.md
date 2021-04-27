@@ -1,7 +1,17 @@
-# Startup-Calendar
+# Startup Calendar
+A place to dind and post startup related events.
 
-This project was created in cooperation with the [Berlin Startup School](https://de.berlinstartupschool.com/).
+## About
+The Startup Calendar was realized as the final project of the Iron Hack Web Development bootcamp in collaboration with [Berlin Startup School](https://de.berlinstartupschool.com).\
+\
+Visitors can browse and search for events and competitions in the startup community. Registered users can post their own events and set up a personal profile.
 
-## What is the Startup-Calendar about?
+## Demo
+[Startup Calendar](https://startup-calendar.herokuapp.com/)
 
-The startup calendar is a platform for sharing and participating in startup events such as hackathons, conventions, etc.
+## Technologies
+* React
+* Tailwind CSS
+* Node.js
+* Express
+* MongoDB
