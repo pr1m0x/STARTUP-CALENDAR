@@ -1,5 +1,5 @@
 # Startup Calendar
-A place to dind and post startup related events.
+A place to find and post startup related events.
 
 ## About
 The Startup Calendar was realized as the final project of the Iron Hack Web Development bootcamp in collaboration with [Berlin Startup School](https://de.berlinstartupschool.com).\
